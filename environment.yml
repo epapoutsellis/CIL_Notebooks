@@ -1,13 +1,8 @@
 name: cil21_ep
 channels:
   - ccpi
-  - ccpi/label/dev
   - astra-toolbox/label/dev
-  - intel
-  - oxfordcontrol
   - conda-forge
-  - cvxgrp
-  - astra-toolbox
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=conda_forge
