@@ -4,7 +4,6 @@ channels:
   - astra-toolbox/label/dev
   - intel
   - oxfordcontrol
-  - ccpi
   - conda-forge
   - cvxgrp
   - astra-toolbox
@@ -38,7 +37,7 @@ dependencies:
   - cftime=1.4.1=py38h5c078b8_0
   - chardet=4.0.0=py38h578d9bd_1
   - charls=2.2.0=h9c3ff4c_0
-  - cil=20.11.2_32=np118py38_0
+  - cil=21.0.0=np118py38_0
   - cil-astra=20.11.2_1=np118py38_0
   - cloudpickle=1.6.0=py_0
   - cryptography=3.4.6=py38ha5dfef3_0
