@@ -1,5 +1,6 @@
 name: cil21_ep
 channels:
+  - ccpi
   - ccpi/label/dev
   - astra-toolbox/label/dev
   - intel
