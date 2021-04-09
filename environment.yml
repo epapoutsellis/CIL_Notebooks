@@ -4,7 +4,6 @@ channels:
   - astra-toolbox/label/dev
   - intel
   - oxfordcontrol
-  - ccpi
   - conda-forge
   - cvxgrp
   - astra-toolbox
